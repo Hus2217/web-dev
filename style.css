@@ -4,3 +4,46 @@
     color: rgb(255, 255, 255);
     text-align: center;
   }
+.navbar{
+    overflow: hidden;
+    background-color: black;
+    padding: 10px 16px;
+  }
+  .navbar a{
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  display: inline;
+  width: 60%;
+  border: 10px;
+  color: antiquewhite;
+  
+  }
+  .navbar a:hover{
+    background-color: whitesmoke;
+    color:black
+  }
+  
+  footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 5px;
+    text-align: center
+  }
+  .img1 img{
+  height: auto;
+  width: 100%;
+  }
+  
+  .additional-info{
+    text-align: center
+  }
+  
+  .about1 img{
+    height: auto;
+    width: 600px;
+  }
+  .about1{
+    padding: 20px;
+    text-align: center;
+  }
